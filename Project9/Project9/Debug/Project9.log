@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\тимур\source\repos\project9\project9\source.cpp(17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\тимур\source\repos\project9\project9\source.cpp(56): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project9.vcxproj -> C:\Users\Тимур\source\repos\Project9\Debug\Project9.exe
